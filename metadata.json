@@ -1,0 +1,5 @@
+{
+  "name": "EquityInsight Pro",
+  "description": "Professional Indian-equity research dashboard powered by Gemini 2.5. Features evidence-based reasoning, automated technical/fundamental analysis, and trade planning with live web grounding.",
+  "requestFramePermissions": []
+}
